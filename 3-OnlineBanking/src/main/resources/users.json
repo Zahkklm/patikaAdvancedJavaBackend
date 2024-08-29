@@ -1,0 +1,30 @@
+[
+  {
+    "tc": "12345678901",
+    "password": "securePassword1",
+    "name": "John Doe",
+    "balance": 1000.0,
+    "loans": [
+      {
+        "id": "loan1",
+        "amount": 500.0,
+        "paid": 200.0
+      }
+    ],
+    "creditCardStatements": [
+      {
+        "id": "cc1",
+        "amount": 150.0,
+        "paid": 50.0
+      }
+    ]
+  },
+  {
+    "tc": "10987654321",
+    "password": "securePassword2",
+    "name": "Jane Smith",
+    "balance": 500.0,
+    "loans": [],
+    "creditCardStatements": []
+  }
+]
